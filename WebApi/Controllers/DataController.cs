@@ -17,8 +17,8 @@ namespace WebApi.Controllers
         {
             return new List<string>
             {
-                "Data1",
-                "Data2"
+                "New Data1",
+                "New Data2"
             };
         }
     }
